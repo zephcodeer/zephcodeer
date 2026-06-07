@@ -1,31 +1,67 @@
-<!-- Profile Banner -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/jQOaL1vlr0oAAAAd/kaneki-ken-tokyo-ghoul.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=500&lines=Agentic+Engineer;Red+Team+%26+AI+Security;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
-<!-- Nickname -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Muhammadsodiq</span></h1>
+---
 
-<!-- Subtitle -->
-<h3 align="center">💻 Student | 🌍 From Uzbekistan</h3>
+```yaml
+name: MuhammadSodiq
+role: Agentic Engineer
+location: Uzbekistan
+focused_on:
+  - AI Engineering (Agentic Workflows)
+  - Cybersecurity (Red Teaming, PTES)
+  - Full-stack Development
+principle: "Build systems that think, adapt, and execute."
+```
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently learning **Full Stack Web Development**
-- 🌱 Interested in **Open-Source projects**
-- 🎯 Goal: Become a **Programmer & Entrepreneur**
+### 📌 Current Projects
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| **Roboeyes** | Python, YOLO, PyTorch | Active |
+| **Physics Edu App** | React, Next.js, FastAPI | Active |
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
-</p>
+### 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Frameworks & AI**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-v8-00FFFF?style=for-the-badge)
+
+**Tools & Environment**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Security & PTES**
+
+![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zephcodeer&theme=github_dark" />
 </p>
@@ -35,8 +71,6 @@
 </p>
 
 ---
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=00BFFF&center=true&vCenter=true&repeat=false&width=300&lines=MCODER" alt="MCODER" />
 
 <p align="center">
   <picture>
@@ -48,15 +82,11 @@
 
 ---
 
-## 🌐 Connect with me
-<p align="center">
-  <a href="mailto:mqmq3885@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/zephcodeer"><img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
+<div align="center">
+  <a href="mailto:mqmq3885@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/zephcodeer"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 <div align="center">
-  <img src="https://media.tenor.com/hbOlVdqUXEkAAAAi/kaneki.gif" width="150px" style="border-radius:50%;" />
-  <p><i>"It's not a strange world, it's just the rule of the world."</i></p>
+  <sub><i>"Engineering is not just writing code — it's designing systems that solve real problems."</i></sub>
 </div>
