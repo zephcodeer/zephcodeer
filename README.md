@@ -76,5 +76,10 @@
 </div>
 
 <div align="center">
+  <img src="https://media.tenor.com/hbOlVdqUXEkAAAAi/kaneki.gif" width="150px" style="border-radius:50%;" />
+  <p><i>"It's not a strange world, it's just the rule of the world."</i></p>
+</div>
+
+<div align="center">
   <sub><i>"Engineering is not just writing code — it's designing systems that solve real problems."</i></sub>
 </div>
