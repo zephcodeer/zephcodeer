@@ -27,6 +27,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
 
+      - name: add MCODER text to SVGs
+        run: |
+          for f in dist/*.svg; do
+            python3 << 'PYEOF'
+import os
+for f in os.listdir('dist'):
+    if not f.endswith('.svg'):
+        continue
+    path = os.path.join('dist', f)
+    with open(path, 'r') as fh:
+        svg = fh.read()
+    text = '<g><text x="50%" y="160" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#00BFFF" text-anchor="middle" opacity="0"><animate attributeName="opacity" begin="10s" dur="0.8s" fill="freeze" to="1"/>MCODER</text></g>'
+    svg = svg.replace('</svg>', text + '</svg>')
+    with open(path, 'w') as fh:
+        fh.write(svg)
+PYEOF
+          done
+
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

@@ -36,7 +36,8 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=500&color=00BFFF&center=true&vCenter=true&repeat=false&width=300&lines=MCODER" alt="MCODER" />
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zephcodeer/zephcodeer/output/github-contribution-grid-snake-dark.svg">
