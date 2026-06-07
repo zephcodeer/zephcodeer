@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media1.tenor.com/m/jQOaL1vlr0oAAAAd/kaneki-ken-tokyo-ghoul.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=500&lines=Agentic+Engineer;Red+Team+%26+AI+Security;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
@@ -14,15 +18,6 @@ focused_on:
   - Full-stack Development
 principle: "Build systems that think, adapt, and execute."
 ```
-
----
-
-### 📌 Current Projects
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| **Roboeyes** | Python, YOLO, PyTorch | Active |
-| **Physics Edu App** | React, Next.js, FastAPI | Active |
 
 ---
 
