@@ -8,19 +8,6 @@
 
 ---
 
-```yaml
-name: MuhammadSodiq
-role: Agentic Engineer
-location: Uzbekistan
-focused_on:
-  - AI Engineering (Agentic Workflows)
-  - Cybersecurity (Red Teaming, PTES)
-  - Full-stack Development
-principle: "Build systems that think, adapt, and execute."
-```
-
----
-
 ### 🛠 Tech Stack
 
 **Languages**
