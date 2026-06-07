@@ -28,17 +28,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT }}
 
       - name: add MCODER text to SVGs
-        run: |
-          for f in dist/*.svg; do
-            python3 -c "
-with open('$f', 'r') as fh:
-    svg = fh.read()
-text = '<g><text x=\"50%\" y=\"160\" font-family=\"Arial,sans-serif\" font-size=\"26\" font-weight=\"bold\" fill=\"#00BFFF\" text-anchor=\"middle\" opacity=\"0\"><animate attributeName=\"opacity\" begin=\"10s\" dur=\"0.8s\" fill=\"freeze\" to=\"1\"/>MCODER</text></g>'
-svg = svg.replace('</svg>', text + '</svg>')
-with open('$f', 'w') as fh:
-    fh.write(svg)
+        run: python3 -c "
+import glob
+for f in glob.glob('dist/*.svg'):
+    with open(f) as fh:
+        svg = fh.read()
+    text = '<g><text x=\"50%\" y=\"160\" font-family=\"Arial,sans-serif\" font-size=\"26\" font-weight=\"bold\" fill=\"#00BFFF\" text-anchor=\"middle\" opacity=\"0\"><animate attributeName=\"opacity\" begin=\"10s\" dur=\"0.8s\" fill=\"freeze\" to=\"1\"/>MCODER</text></g>'
+    svg = svg.replace('</svg>', text + '</svg>')
+    with open(f, 'w') as fh:
+        fh.write(svg)
 "
-          done
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
